@@ -1,6 +1,6 @@
 (function($, Edge, compId){
 
-var im='https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/images/';
+var im='https://raw.githubusercontent.com/DeathBarmaglot/puzzle/master/images/';
 
 var fonts = {};
 var opts = {
