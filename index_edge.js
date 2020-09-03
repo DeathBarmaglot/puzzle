@@ -1,8 +1,5 @@
-/**
- * Adobe Edge: symbol definitions
- */
 (function($, Edge, compId){
-//images folder
+
 var im='https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/images/';
 
 var fonts = {};
@@ -30,7 +27,7 @@ var symbols = {
                 id: '_3',
                 type: 'image',
                 rect: ['-1086px', '21px','2470px','260px','auto', 'auto'],
-                fill: ["rgba(0,0,0,0)",'https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/images3.svg','0px','0px'],
+                fill: ["rgba(0,0,0,0)",'https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/images/3.svg','0px','0px'],
                 transform: [[],[],[],['0.1','0.1']]
             },
             {
@@ -38,7 +35,7 @@ var symbols = {
                 type: 'image',
                 rect: ['-1161px', '-319px','2620px','906px','auto', 'auto'],
                 clip: ['rect(0px 2620px 321px 0px)'],
-                fill: ["rgba(0,0,0,0)",'https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/images2.svg','0px','0px'],
+                fill: ["rgba(0,0,0,0)",'https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/images/2.svg','0px','0px'],
                 transform: [[],[],[],['0.1','0.1']]
             },
             {
@@ -46,35 +43,35 @@ var symbols = {
                 type: 'image',
                 rect: ['-1161px', '-317px','2620px','906px','auto', 'auto'],
                 clip: ['rect(330px 2620px 906px 0px)'],
-                fill: ["rgba(0,0,0,0)",'https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/images2.svg','0px','0px'],
+                fill: ["rgba(0,0,0,0)",'https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/images/2.svg','0px','0px'],
                 transform: [[],[],[],['0.09','0.09']]
             },
             {
                 id: '_12',
                 type: 'image',
                 rect: ['-1307px', '-145px','2830px','406px','auto', 'auto'],
-                fill: ["rgba(0,0,0,0)",'https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/images1.svg','0px','0px'],
+                fill: ["rgba(0,0,0,0)",'https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/images/1.svg','0px','0px'],
                 transform: [[],[],[],['0.2','0.2']]
             },
             {
                 id: 'l',
                 type: 'image',
                 rect: ['-1040px', '-327px','2362px','812px','auto', 'auto'],
-                fill: ["rgba(0,0,0,0)",'https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/imagesl.svg','0px','0px'],
+                fill: ["rgba(0,0,0,0)",'https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/images/l.svg','0px','0px'],
                 transform: [[],[],[],['0.1','0.1']]
             },
             {
                 id: 'i',
                 type: 'image',
                 rect: ['-1103px', '-852px','2426px','1939px','auto', 'auto'],
-                fill: ["rgba(0,0,0,0)",'https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/imagesi.svg','0px','0px'],
+                fill: ["rgba(0,0,0,0)",'https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/images/i.svg','0px','0px'],
                 transform: [[],[],[],['0.05','0.05']]
             },
             {
                 id: 'Untitled-12',
                 type: 'image',
                 rect: ['193px', '12px','107px','160px','auto', 'auto'],
-                fill: ["rgba(0,0,0,0)",'https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/imagesUntitled-12.png','0px','0px']
+                fill: ["rgba(0,0,0,0)",'https://raw.githubusercontent.com/DeathBarmaglot/puzzle/tree/master/images/Untitled-12.png','0px','0px']
             }],
             symbolInstances: [
 
